@@ -21,9 +21,9 @@ organizations:
 bio: 对互联网新兴产品有浓厚兴趣并希望更多的学习了解。
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 计算机硬件
+- 数码产品
+- 看书
 
 education:
   courses:
